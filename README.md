@@ -1,4 +1,52 @@
 # San-Francisco-Airport-Dashboard
+
+## Objective of the Analysis
+1.
+2.
+3.
+
+## About the data
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+## Important Variables
+1.
+2.
+3.
+4.
+
+## Analysis.
+1.
+2.
+3.
+4.
+5.
+
+## Functionality of Dashboard 
+1.
+2.
+3.
+4.
+5.
+
+## Insights
+1.
+2.
+3.
+4.
+5.
+
+## Recommedations
+1.
+2.
+3.
+
+
 A San Francisco Airport Flights analysis (March 2022) with help of Tableau.
 For finding no. of flights i.e no. of records ,I created a new column with value 1 and named it no. of records.So the total sum of the rows will be the no. of flights.
 ![image](https://user-images.githubusercontent.com/106676849/187887366-50b536de-6cd5-4b11-acfc-269a7c7a9d39.png)
