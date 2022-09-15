@@ -1,4 +1,4 @@
-# San-Francisco-Airport-Dashboard
+# San Francisco Airport Dashboard
 
 ## Objective of the Analysis
 1.
