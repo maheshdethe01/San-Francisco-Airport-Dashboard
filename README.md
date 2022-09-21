@@ -15,17 +15,7 @@
 7.
 
 ## Important Variables
-1.
-2.
-3.
-4.
-
-## Analysis.
-1.
-2.
-3.
-4.
-5.
+All of the variables were essential for the analysis.
 
 ## Functionality of Dashboard 
 1.
