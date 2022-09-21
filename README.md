@@ -46,3 +46,8 @@ For finding no. of flights i.e no. of records ,I created a new column with value
 ![image](https://user-images.githubusercontent.com/106676849/187888056-b839c73c-b315-4902-8498-662dd2ec6046.png)
 ![image](https://user-images.githubusercontent.com/106676849/187888166-f9752c89-61d4-4317-99d4-20d83099da19.png)
 ![Dashboard 1 (4)](https://user-images.githubusercontent.com/106676849/187887051-d6a37040-e5d6-41d3-9fbb-a54df07bcf2c.png)
+
+## Challenges & Learnings.
+1.
+2.
+3.
