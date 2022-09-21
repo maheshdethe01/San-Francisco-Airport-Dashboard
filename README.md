@@ -1,9 +1,9 @@
 # San Francisco Airport Dashboard
 
 ## Objective of the Analysis
-1.
-2.
-3.
+1. To get insights from the no.of flights and respective information about San Francisco Airport. 
+2. To give respective recommendations.
+3. To visualize all of the flights data at one page.
 
 ## About the data
 1.
