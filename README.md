@@ -1,10 +1,16 @@
-# San Francisco Airport Dashboard
 
-<div align = "left" >
-<img src="https://i.pinimg.com/originals/23/ea/f3/23eaf367f9411e45f5b8c0375692facb.gif" width="200" height = "200" />
+<div align = "center" >
+  
+  # San Francisco Airport Analysis
+  
+
 </div>
+<div align = "center" >
+<img src="https://i.pinimg.com/originals/23/ea/f3/23eaf367f9411e45f5b8c0375692facb.gif" width="400" height = "100" />
  
 ## Tech Stack - Tableau 
+</div>
+ 
 ## Objective of the Analysis
 1. To get insights from the no.of flights and respective information about San Francisco Airport. 
 2. To give respective recommendations.
