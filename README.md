@@ -17,13 +17,10 @@
 3. To visualize all of the flights data at one page.
 
 ## About the data
-1.
-2.
-3.
-4.
-5.
-6.
-7.
+1.Co-ordinates of departure and destination.
+2.Date of the flight
+3.Route/Path of the flight
+4.Distance between the depart and destined locations.
 
 ## Important Variables
 All of the variables were essential for the analysis.
@@ -34,19 +31,6 @@ All of the variables were essential for the analysis.
 3.
 4.
 5.
-
-## Insights
-1.
-2.
-3.
-4.
-5.
-
-## Recommedations
-1.
-2.
-3.
-
 
 A San Francisco Airport Flights analysis (March 2022) with help of Tableau.
 For finding no. of flights i.e no. of records ,I created a new column with value 1 and named it no. of records.So the total sum of the rows will be the no. of flights.
@@ -59,6 +43,5 @@ For finding no. of flights i.e no. of records ,I created a new column with value
 ![Dashboard 1 (4)](https://user-images.githubusercontent.com/106676849/187887051-d6a37040-e5d6-41d3-9fbb-a54df07bcf2c.png)
 
 ## Challenges & Learnings.
-1.
-2.
-3.
+1. While converting co-ordinates to point , You have to use makepoint.
+2. While converting points to path, You have to use makeline.
