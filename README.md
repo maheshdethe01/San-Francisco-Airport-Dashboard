@@ -26,11 +26,11 @@
 All of the variables were essential for the analysis.
 
 ## Functionality of Dashboard 
-1.
-2.
-3.
-4.
-5.
+1.Each flights date and path.
+2.Distance of the destined and departed location. 
+3.Top n rotes taken.
+4.No.of flights per day.
+5.Most popular Day.
 
 A San Francisco Airport Flights analysis (March 2022) with help of Tableau.
 For finding no. of flights i.e no. of records ,I created a new column with value 1 and named it no. of records.So the total sum of the rows will be the no. of flights.
